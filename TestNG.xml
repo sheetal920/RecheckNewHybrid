@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="HybridFrameworkStructure">
+<listeners>
+
+ <listener class-name="com.HybridFrameworkStructure.Utilities.ExtentReport"/>
+
+</listeners>
+
+  <test name="Framework Test">
+   <parameter name="browser" value="firefox" />  
+   <classes>
+   <class name="com.HybridFrameworkStructure.TestCases.TC_LoginTest_001" /> 
+    <class name="com.HybridFrameworkStructure.TestCases.TC_LoginExcelDDT_002" />
+   <class name="com.HybridFrameworkStructure.TestCases.TC_AddCustomerTest_003" />
+   
+   </classes>
+ </test>
+</suite>

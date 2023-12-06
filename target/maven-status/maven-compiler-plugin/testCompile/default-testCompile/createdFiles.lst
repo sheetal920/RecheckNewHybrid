@@ -1,0 +1,9 @@
+com\HybridFrameworkStructure\Utilities\ExtentReport.class
+com\HybridFrameworkStructure\Utilities\XLUtility.class
+com\HybridFrameworkStructure\TestCases\BaseClass.class
+com\HybridFrameworkStructure\TestCases\TC_LoginExcelDDT_002.class
+com\HybridFrameworkStructure\pageObjects\LoginPage.class
+com\HybridFrameworkStructure\TestCases\TC_AddCustomerTest_003.class
+com\HybridFrameworkStructure\Utilities\Readconfig.class
+com\HybridFrameworkStructure\pageObjects\AddCustomerPage.class
+com\HybridFrameworkStructure\TestCases\TC_LoginTest_001.class

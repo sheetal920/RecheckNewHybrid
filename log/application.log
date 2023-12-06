@@ -1,0 +1,271 @@
+2023-11-22 21:54:36,032 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-22 21:54:43,710 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-22 21:54:45,753 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-23 13:12:33,229 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-23 13:12:42,500 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-23 13:12:46,110 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-23 15:03:34,619 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-23 15:03:35,941 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-23 21:34:56,684 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-23 21:35:09,635 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-23 21:35:11,688 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-23 21:37:16,728 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-23 21:37:22,197 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-23 21:37:24,230 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-23 21:40:49,140 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-23 21:40:56,291 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-23 21:41:37,784 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-23 21:41:43,532 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-23 21:43:31,871 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-23 21:43:38,991 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-23 21:43:39,046 [main] INFO HybridFrameworkStructure - entering username
+2023-11-25 16:05:51,163 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-25 16:05:56,070 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-25 16:05:58,931 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-25 16:24:36,162 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-25 16:24:43,730 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-25 16:24:46,320 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-29 13:19:49,034 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 13:19:49,078 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 13:19:51,444 [main] WARN HybridFrameworkStructure - Login failed
+2023-11-29 13:19:53,763 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 13:19:53,828 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 13:19:55,468 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 13:19:55,495 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 13:19:56,917 [main] WARN HybridFrameworkStructure - Login failed
+2023-11-29 13:20:00,044 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 13:20:00,066 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 13:20:01,939 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 13:20:01,972 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 13:22:21,372 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 13:22:21,430 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 13:22:23,889 [main] WARN HybridFrameworkStructure - Login Passed
+2023-11-29 13:22:26,349 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 13:22:26,378 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 13:22:28,652 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 13:22:28,700 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 13:22:32,294 [main] WARN HybridFrameworkStructure - Login Passed
+2023-11-29 13:22:34,476 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 13:22:34,513 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 13:22:36,316 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 13:22:36,353 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 16:31:34,568 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-11-29 16:31:34,667 [main] INFO HybridFrameworkStructure - Password is provided
+2023-11-29 16:31:36,740 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-29 16:31:39,765 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-11-29 16:31:40,163 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-11-29 16:31:48,490 [main] INFO HybridFrameworkStructure - Validation Started
+2023-11-29 16:34:16,531 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-11-29 16:34:16,570 [main] INFO HybridFrameworkStructure - Password is provided
+2023-11-29 16:34:20,429 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-29 16:34:23,452 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-11-29 16:34:23,538 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-11-29 16:34:39,488 [main] INFO HybridFrameworkStructure - Validation Started
+2023-11-29 16:40:57,235 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-11-29 16:40:57,334 [main] INFO HybridFrameworkStructure - Password is provided
+2023-11-29 16:40:59,778 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-29 16:41:02,805 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-11-29 16:41:02,881 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-11-29 16:41:12,726 [main] INFO HybridFrameworkStructure - Validation Started
+2023-11-29 16:44:22,257 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-11-29 16:44:22,329 [main] INFO HybridFrameworkStructure - Password is provided
+2023-11-29 16:44:24,300 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-29 16:44:27,330 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-11-29 16:44:27,419 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-11-29 16:44:36,810 [main] INFO HybridFrameworkStructure - Validation Started
+2023-11-29 16:44:36,848 [main] INFO HybridFrameworkStructure - testCase failed
+2023-11-29 16:47:20,771 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-11-29 16:47:20,918 [main] INFO HybridFrameworkStructure - Password is provided
+2023-11-29 16:47:22,655 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-29 16:47:25,676 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-11-29 16:47:25,830 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-11-29 16:48:01,832 [main] INFO HybridFrameworkStructure - Validation Started
+2023-11-29 16:48:01,990 [main] INFO HybridFrameworkStructure - testCase failed
+2023-11-29 16:48:27,768 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-11-29 16:48:27,904 [main] INFO HybridFrameworkStructure - Password is provided
+2023-11-29 16:48:29,503 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-29 16:48:32,512 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-11-29 16:48:32,721 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-11-29 16:48:50,197 [main] INFO HybridFrameworkStructure - Validation Started
+2023-11-29 16:50:59,517 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-11-29 16:50:59,640 [main] INFO HybridFrameworkStructure - Password is provided
+2023-11-29 16:51:01,235 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-29 16:51:04,252 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-11-29 16:51:04,438 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-11-29 16:51:20,678 [main] INFO HybridFrameworkStructure - Validation Started
+2023-11-29 16:51:20,716 [main] INFO HybridFrameworkStructure - testCase passed
+2023-11-29 16:53:27,463 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-29 16:53:29,794 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-29 16:53:33,277 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-29 16:53:46,451 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 16:53:46,709 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 16:53:52,988 [main] WARN HybridFrameworkStructure - Login Passed
+2023-11-29 16:53:59,768 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 16:53:59,876 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 16:54:07,521 [main] WARN HybridFrameworkStructure - Login failed
+2023-11-29 16:54:07,698 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 16:54:07,803 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 16:54:12,637 [main] WARN HybridFrameworkStructure - Login Passed
+2023-11-29 16:54:20,298 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 16:54:20,461 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 16:54:27,995 [main] WARN HybridFrameworkStructure - Login failed
+2023-11-29 16:54:28,175 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 16:54:28,564 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 16:54:35,741 [main] WARN HybridFrameworkStructure - Login failed
+2023-11-29 16:54:46,276 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-11-29 16:54:46,409 [main] INFO HybridFrameworkStructure - Password is provided
+2023-11-29 16:54:49,354 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-11-29 16:54:52,376 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-11-29 16:54:52,810 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-11-29 16:55:09,860 [main] INFO HybridFrameworkStructure - Validation Started
+2023-11-29 16:55:09,928 [main] INFO HybridFrameworkStructure - testCase passed
+2023-11-29 16:59:31,010 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 16:59:31,175 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 16:59:38,742 [main] WARN HybridFrameworkStructure - Login failed
+2023-11-29 16:59:38,907 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 16:59:39,056 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 16:59:46,620 [main] WARN HybridFrameworkStructure - Login failed
+2023-11-29 16:59:46,744 [main] INFO HybridFrameworkStructure - User name entered
+2023-11-29 16:59:46,849 [main] INFO HybridFrameworkStructure - Password entered
+2023-11-29 16:59:54,276 [main] WARN HybridFrameworkStructure - Login failed
+2023-11-29 17:00:03,775 [main] INFO HybridFrameworkStructure - URL will enter
+2023-11-29 17:00:04,898 [main] INFO HybridFrameworkStructure - URL entered
+2023-11-29 17:00:08,096 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 12:44:18,794 [main] INFO HybridFrameworkStructure - URL will enter
+2023-12-05 12:44:21,492 [main] INFO HybridFrameworkStructure - URL entered
+2023-12-05 12:44:25,568 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 12:44:41,825 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 12:44:41,996 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 12:44:47,228 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 12:44:54,833 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 12:44:54,856 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 12:44:58,709 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 12:45:00,356 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 12:45:00,395 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 12:45:05,065 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 12:45:11,239 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 12:45:11,293 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 12:45:15,285 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 12:45:17,418 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 12:45:17,446 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 12:45:21,102 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 12:45:36,273 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-12-05 12:45:36,383 [main] INFO HybridFrameworkStructure - Password is provided
+2023-12-05 12:45:38,564 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 12:45:41,584 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-12-05 12:45:41,701 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-12-05 13:22:02,465 [main] INFO HybridFrameworkStructure - URL will enter
+2023-12-05 13:22:07,791 [main] INFO HybridFrameworkStructure - URL entered
+2023-12-05 13:22:12,580 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 13:22:28,778 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 13:22:28,805 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 13:22:34,504 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 13:22:40,782 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 13:22:40,828 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 13:22:44,684 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 13:22:46,541 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 13:22:46,596 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 13:22:51,164 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 13:22:57,619 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 13:22:57,645 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 13:23:01,389 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 13:23:03,248 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 13:23:03,310 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 13:23:07,268 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 13:23:20,836 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-12-05 13:23:20,894 [main] INFO HybridFrameworkStructure - Password is provided
+2023-12-05 13:23:23,672 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 13:23:26,694 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-12-05 13:23:26,757 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-12-05 15:29:26,011 [main] INFO HybridFrameworkStructure - URL will enter
+2023-12-05 15:29:28,209 [main] INFO HybridFrameworkStructure - URL entered
+2023-12-05 15:29:30,455 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 15:29:50,322 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 15:29:50,394 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 15:30:06,374 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 15:30:13,124 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 15:30:13,193 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 15:30:17,066 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 15:30:21,495 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 15:30:21,519 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 15:30:25,903 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 15:30:39,488 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 15:30:39,508 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 15:30:43,190 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 15:30:46,108 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 15:30:46,141 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 15:30:49,881 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 15:31:05,830 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-12-05 15:31:05,903 [main] INFO HybridFrameworkStructure - Password is provided
+2023-12-05 15:31:08,337 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 15:31:11,356 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-12-05 15:31:11,471 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-12-05 21:30:28,120 [main] INFO HybridFrameworkStructure - URL will enter
+2023-12-05 21:30:29,932 [main] INFO HybridFrameworkStructure - URL entered
+2023-12-05 21:30:31,820 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 21:30:46,223 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:30:46,266 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:30:52,328 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 21:30:58,338 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:30:58,357 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:31:01,927 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 21:31:03,842 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:31:03,891 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:31:12,051 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 21:31:17,998 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:31:18,019 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:31:21,630 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 21:31:23,917 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:31:23,936 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:31:27,562 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 21:31:41,889 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-12-05 21:31:41,911 [main] INFO HybridFrameworkStructure - Password is provided
+2023-12-05 21:31:44,484 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 21:31:47,512 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-12-05 21:31:47,564 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-12-05 21:41:00,115 [main] INFO HybridFrameworkStructure - URL will enter
+2023-12-05 21:41:02,463 [main] INFO HybridFrameworkStructure - URL entered
+2023-12-05 21:41:04,260 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 21:41:14,272 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:41:14,295 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:41:19,505 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 21:41:25,225 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:41:25,253 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:41:28,840 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 21:41:30,760 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:41:30,778 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:41:34,909 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 21:41:41,138 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:41:41,173 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:41:44,885 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 21:41:46,468 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:41:46,488 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:41:50,078 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 21:42:02,580 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-12-05 21:42:02,606 [main] INFO HybridFrameworkStructure - Password is provided
+2023-12-05 21:42:04,004 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 21:42:07,027 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-12-05 21:42:07,066 [main] INFO HybridFrameworkStructure - Enter customer Details
+2023-12-05 21:48:37,386 [main] INFO HybridFrameworkStructure - URL will enter
+2023-12-05 21:48:39,229 [main] INFO HybridFrameworkStructure - URL entered
+2023-12-05 21:48:41,344 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 21:48:54,161 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:48:54,183 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:48:59,679 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 21:49:06,917 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:49:06,935 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:49:10,506 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 21:49:12,296 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:49:12,317 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:49:19,822 [main] WARN HybridFrameworkStructure - Login Passed
+2023-12-05 21:49:25,836 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:49:25,887 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:49:29,577 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 21:49:31,891 [main] INFO HybridFrameworkStructure - User name entered
+2023-12-05 21:49:31,927 [main] INFO HybridFrameworkStructure - Password entered
+2023-12-05 21:49:35,608 [main] WARN HybridFrameworkStructure - Login failed
+2023-12-05 21:49:47,126 [main] INFO HybridFrameworkStructure - User Name is provided
+2023-12-05 21:49:47,194 [main] INFO HybridFrameworkStructure - Password is provided
+2023-12-05 21:49:49,934 [main] INFO HybridFrameworkStructure - Submit button clicked
+2023-12-05 21:49:52,952 [main] INFO HybridFrameworkStructure - Click on Add Customer
+2023-12-05 21:49:52,991 [main] INFO HybridFrameworkStructure - Enter customer Details
